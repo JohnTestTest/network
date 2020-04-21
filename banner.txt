@@ -1,2 +1,2 @@
-banner motd & THIS IN JENKINS BANNER &
+banner motd & THIS IN JENKINS2 BANNER &
 
