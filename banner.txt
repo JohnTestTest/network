@@ -1,2 +1,2 @@
-banner motd & YESSEQUITUR BANNER CHANGE TO DEV BRANCH &
+banner motd & MASTER &
 
