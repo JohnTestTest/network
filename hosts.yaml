@@ -5,7 +5,7 @@ R1:
     hostname: 192.168.31.201
     platform: 'ios'
     username: john
-    password: cisco
+    password: ciscoooo
     groups:
         - cisco_group
     data:
