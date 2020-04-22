@@ -21,3 +21,4 @@ R2:
         - cisco_group
     data:
         domain: ipvzero
+        asn: 99
