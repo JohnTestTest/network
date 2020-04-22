@@ -1,2 +1,2 @@
-banner motd & TEST UBUNTU YES SEQUITUR &
+banner motd & TEST KALI YES SEQUITUR &
 
