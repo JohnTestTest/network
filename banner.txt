@@ -1,2 +1,2 @@
-banner motd & MASTER &
+banner motd & TEST UBUNTU &
 
