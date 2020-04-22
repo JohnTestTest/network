@@ -1,2 +1,2 @@
-banner motd & TEST2 BANNER &
+banner motd & TEST3 BANNER &
 
