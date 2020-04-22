@@ -1,2 +1,2 @@
-banner motd & TEST UBUNTU &
+banner motd & TEST UBUNTU22 &
 
