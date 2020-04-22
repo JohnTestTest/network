@@ -1,2 +1,2 @@
-banner motd & TEST UBUNTU22 &
+banner motd & TEST UBUNTU YES SEQUITUR &
 
